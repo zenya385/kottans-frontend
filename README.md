@@ -9,8 +9,8 @@
 - [x] 2. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 
 ## Front-End Basic
-- [x] 3. [Intro to HTML & CSS](Intro-to-HTML-and-CSS)
-- [ ] 4. Responsive Web Design
+- [x] 3. [Intro to HTML & CSS](#Intro-to-HTML-and-CSS)
+- [x] 4. [Responsive Web Design](#responsive-web-design)
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScipt Basics
 - [ ] 7. Document Object Model - practice 
@@ -53,6 +53,15 @@
 <details><summary>Results</summary>
 <img src="/task_html_css_intro/Learn_CSS _Codecademy.jpg" alt="Task CSS intro" title="Learn CSS intro">
 <img src="/task_html_css_intro/Learn_HTML _Codecademy.jpg" alt="Task HTML intro" title="Learn HTML intro">
+</details>
+
+### Responsive Web Design
+
+<details><summary>Results</summary>
+<img src="/task_responsive_web_design/flexbox_tutorial.jpg" alt="Responsive Web Design" title="Learn Responsive Web Design">
+<img src="/task_responsive_web_design/flexbox_froggy-game_css_flexbox.jpg" alt="Responsive Web Desig" title="Learn Responsive Web Design">
+<img src="/task_responsive_web_design/css_grid_layout_tutorial.jpg" alt="Responsive Web Desig" title="Learn Responsive Web Design">
+<img src="/task_responsive_web_design/grid_garden_game_css_grid.jpg" alt="Responsive Web Desig" title="Learn Responsive Web Design">
 </details>
 
 
